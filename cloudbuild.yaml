@@ -1,23 +1,26 @@
 steps:
-# Build the container image
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '.', '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipleline/hello-world:${SHORT_SHA}', '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world','-f', 'Dockerfile']
+  args: ['build', '.', '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/jorge-test/servdocuments:${SHORT_SHA}', '-t',
+          'us-central1-docker.pkg.dev/$PROJECT_ID/jorge-test/servdocuments','-f', 'Dockerfile' ]
   id: build
 # Push the container image to Container Registry
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipleline/hello-world:$SHORT_SHA']
+  args: ['push', 'us-central1-docker.pkg.dev/$PROJECT_ID/jorge-test/servdocuments:$SHORT_SHA']
   id: push
-# SSH into the VM and execute commands
-- name: 'gcr.io/cloud-builders/gcloud'
-  entrypoint: 'bash'
-  args:
-    - '-c'
-    - |
-      gcloud compute ssh m2c-qa-simplepipeline --zone=us-central1-a --command="
-        docker pull us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world:$SHORT_SHA &&
-        docker stop klt-m2c-qa-simple-pipeline-test-lwre || true &&
-        docker rm klt-m2c-qa-simple-pipeline-test-lwre || true &&
-        docker run -d --name klt-m2c-qa-simple-pipeline-test-lwre -p 8080:8080 us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world:$SHORT_SHA
-      "
-options:
-  logging: CLOUD_LOGGING_ONLY
+#Deploy container image to Cloud Deploy
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'm2c-servdocuments-test-yorch',
+    '--image', 'us-central1-docker.pkg.dev/$PROJECT_ID/jorge-test/servdocuments:$SHORT_SHA',
+    '--region', 'us-central1',
+    '--network', 'm2c-qa-network',
+    '--subnet', 'm2c-qa-network-app',
+    '--min-instances', '1',
+    '--max-instances', '1',
+    '--cpu', '1',
+    '--memory', '256Mi',
+    '--port', '80',
+    '--allow-unauthenticated']
+  id: deploy
+images:
+- us-central1-docker.pkg.dev/$PROJECT_ID/jorge-test/servdocuments
