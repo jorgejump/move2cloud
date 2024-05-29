@@ -1,0 +1,13 @@
+apiVersion: skaffold/v3alpha1
+kind: Config
+deploy:
+  kubectl: {}
+profiles:
+- name: test
+  manifests:
+    rawYaml:
+    - enviroment/dev/deployment.yaml
+- name: staging
+  manifests:
+    rawYaml:
+    - enviroment/staging/deployment.yaml

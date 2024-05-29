@@ -1,0 +1,23 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '.', '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipleline/hello-world:${SHORT_SHA}', '-t', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world','-f', 'Dockerfile']
+  id: build
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipleline/hello-world:$SHORT_SHA']
+  id: push
+# SSH into the VM and execute commands
+- name: 'gcr.io/cloud-builders/gcloud'
+  entrypoint: 'bash'
+  args:
+    - '-c'
+    - |
+      gcloud compute ssh m2c-qa-simplepipeline --zone=us-central1-a --command="
+        docker pull us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world:$SHORT_SHA &&
+        docker stop klt-m2c-qa-simple-pipeline-test-lwre || true &&
+        docker rm klt-m2c-qa-simple-pipeline-test-lwre || true &&
+        docker run -d --name klt-m2c-qa-simple-pipeline-test-lwre -p 8080:8080 us-central1-docker.pkg.dev/$PROJECT_ID/simple-pipeline/hello-world:$SHORT_SHA
+      "
+options:
+  logging: CLOUD_LOGGING_ONLY

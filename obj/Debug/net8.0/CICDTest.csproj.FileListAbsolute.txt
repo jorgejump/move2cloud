@@ -1,0 +1,99 @@
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\appsettings.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\CICDTest.exe
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\CICDTest.deps.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\CICDTest.runtimeconfig.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\CICDTest.pdb
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.csproj.AssemblyReference.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.AssemblyInfoInputs.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.AssemblyInfo.cs
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets\msbuild.CICDTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets\msbuild.build.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\scopedcss\bundle\CICDTest.styles.css
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.csproj.Up2Date
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\refint\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.pdb
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\CICDTest.genruntimeconfig.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline\obj\Debug\net8.0\ref\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\appsettings.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.exe
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.deps.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.runtimeconfig.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.pdb
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.AssemblyReference.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.AssemblyInfoInputs.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.AssemblyInfo.cs
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.CICDTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.build.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CICDTest.props
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\scopedcss\bundle\CICDTest.styles.css
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.Up2Date
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\refint\CICDTest.dll
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.pdb
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.genruntimeconfig.cache
+C:\Users\eduardo.lozano\Desktop\PipeLine\simple-pipleline - copia\obj\Debug\net8.0\ref\CICDTest.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\appsettings.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.exe
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.deps.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.runtimeconfig.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\CICDTest.pdb
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.AssemblyReference.cache
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.AssemblyInfoInputs.cache
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.AssemblyInfo.cs
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.CICDTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.build.CICDTest.props
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CICDTest.props
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CICDTest.props
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\scopedcss\bundle\CICDTest.styles.css
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.csproj.Up2Date
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\refint\CICDTest.dll
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.pdb
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\CICDTest.genruntimeconfig.cache
+C:\Users\jorge\Downloads\simple-pipleline - copia\obj\Debug\net8.0\ref\CICDTest.dll
