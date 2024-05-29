@@ -7,6 +7,6 @@ class Program
         var builder = WebApplication.CreateBuilder(args);
         var app = builder.Build();
         app.MapGet("/", () => "Hola Mundo CICD" + DateTime.Now );
-        app.Run()
+        app.Run();
     }
 }
